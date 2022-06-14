@@ -1,0 +1,12 @@
+div{
+    width: 700px;
+    height: 2000px;
+    background-color: aqua;
+    border-radius: 20px;
+    display: flex;
+}
+iframe{
+    margin: auto;
+    width: 500px;
+    height: 1900px;
+}
